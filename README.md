@@ -5,4 +5,4 @@ I wrote the Dockerfile based on the installation instructions in https://github.
 
 I uploaded the docker image to https://hub.docker.com/r/salwaelk/fritzing-bionic.
 
-Before runing the container, give docker access to Xserver: **xhost +local:docker**.
+Before runing the container, give docker access to Xserver: **xhost +local:docker**
